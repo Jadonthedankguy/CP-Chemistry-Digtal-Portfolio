@@ -1,0 +1,23 @@
+#Title
+{
+    color: aqua;
+}
+#home
+{
+    background-color: olivedrab;
+}
+#fission{
+    color: gold;
+    background-color: green;
+}
+#radioactivedecay{
+    background-color: goldenrod;
+}
+#alphadecay{
+    color: red;
+    background-color: maroon;
+}
+#betadecay{
+    color: blue;
+    background-color: aqua;
+}
